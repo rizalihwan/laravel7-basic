@@ -1,8 +1,8 @@
 
 ## Installation
 1. Open your terminal and go to your `~/htdocs` folder.
-2. Clone this repository `git clone https://github.com/rizalihwan/LARAVEL-BasicLaravel7CrudWithSlug.git`
-3. Go inside to folder by `cd LARAVEL-BasicLaravel7CrudWithSlug`
+2. Clone this repository `git clone https://github.com/rizalihwan/laravel7-basic.git`
+3. Go inside to folder by `cd laravel7-basic`
 4. Run `composer install`
 5. Create `.env` file with command `cp .env.example .env`
 6. Generate key inside `.env` file by `php artisan generate:key`
